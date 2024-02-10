@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "70908528766",
+    "firebase_url": "https://flyin-28c1d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flyin-28c1d",
+    "storage_bucket": "flyin-28c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70908528766:android:15f24ead7f152fad1b302f",
+        "android_client_info": {
+          "package_name": "com.example.flyin_blackcoffer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh08pxDWtxf8833ftuglrwVwCKxA_Pao0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
